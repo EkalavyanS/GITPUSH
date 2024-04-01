@@ -1,6 +1,6 @@
-# GitPush 
+# GitPush ⚒️
 
-## Description
+## Description 🗒️
 GitPush is a Python script that automates the process of initializing a Git repository, adding files, committing changes, and pushing them to a remote repository.
 
 ## Usage
